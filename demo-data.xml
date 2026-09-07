@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<channel>
+	<title>BlogShammir Demo Data</title>
+	<link>http://localhost</link>
+	<description>Demo Data for BlogShammir Theme</description>
+	<pubDate>Mon, 08 Sep 2026 00:00:00 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>http://localhost</wp:base_site_url>
+	<wp:base_blog_url>http://localhost</wp:base_blog_url>
+
+	<!-- Categories -->
+	<wp:category>
+		<wp:term_id>101</wp:term_id>
+		<wp:category_nicename>technology</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name><![CDATA[Technology]]></wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>102</wp:term_id>
+		<wp:category_nicename>lifestyle</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name><![CDATA[Lifestyle]]></wp:cat_name>
+	</wp:category>
+
+	<!-- Post 1 -->
+	<item>
+		<title>Welcome to BlogShammir - The Ultimate Blogging Experience</title>
+		<link>http://localhost/welcome-to-blogshammir/</link>
+		<pubDate>Mon, 08 Sep 2026 00:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[Md Shammir Ahmed]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/?p=1001</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>Welcome to BlogShammir, the fastest and most highly customizable blogging theme on the market! Designed exclusively by Md Shammir Ahmed, this theme offers everything you need to create a stunning online presence.</p><h2>Why Choose BlogShammir?</h2><ul><li>Lightning Fast Performance</li><li>Fully Responsive Design</li><li>Optimized for SEO</li><li>100% Free - No Premium Upsells!</li></ul><p>Start writing your amazing stories today and let your voice be heard across the world.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1001</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-08 00:01:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-08 00:01:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[welcome-to-blogshammir]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="technology"><![CDATA[Technology]]></category>
+		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+	</item>
+
+	<!-- Post 2 -->
+	<item>
+		<title>10 Essential Tips for Modern Web Design</title>
+		<link>http://localhost/10-essential-tips-web-design/</link>
+		<pubDate>Mon, 08 Sep 2026 00:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[Md Shammir Ahmed]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/?p=1002</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>Web design is constantly evolving, but the core principles remain the same. Here are the top 10 tips to ensure your website stands out in 2026:</p><ol><li><strong>Prioritize Mobile-First:</strong> More than 60% of traffic comes from mobile devices. Make sure your layout fluidly adapts.</li><li><strong>Keep it Fast:</strong> Optimize images, minify CSS/JS, and use a reliable caching plugin.</li><li><strong>Accessible Colors:</strong> Ensure high contrast ratios for text to background.</li><li><strong>White Space is Your Friend:</strong> Don't clutter your layout. Let the content breathe.</li><li><strong>Clear Typography:</strong> Stick to two fonts maximum to maintain a clean aesthetic.</li></ol>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1002</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-08 00:02:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-08 00:02:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[10-essential-tips-web-design]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="technology"><![CDATA[Technology]]></category>
+	</item>
+
+	<!-- Post 3 -->
+	<item>
+		<title>The Art of Minimalist Living</title>
+		<link>http://localhost/art-of-minimalist-living/</link>
+		<pubDate>Mon, 08 Sep 2026 00:03:00 +0000</pubDate>
+		<dc:creator><![CDATA[Md Shammir Ahmed]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/?p=1003</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>Minimalism is not just an aesthetic choice; it is a lifestyle. It’s about stripping away the non-essentials so you can focus on what truly matters.</p><p>By reducing physical clutter, we inherently reduce mental clutter. Consider donating clothes you haven't worn in a year, or unsubscribing from newsletters you never read. Every small step towards minimalism makes a big difference.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1003</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-08 00:03:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-08 00:03:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[art-of-minimalist-living]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+	</item>
+</channel>
+</rss>
