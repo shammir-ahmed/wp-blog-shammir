@@ -86,9 +86,8 @@ if ( ! class_exists( 'Blogshammir_Customizer_Featured_Links' ) ) :
 					'item_name'    => esc_html__( 'Featured Link', 'blogshammir' ),
 					'title_format' => esc_html__( '[live_title]', 'blogshammir' ), // [live_title]
 					'add_text'     => esc_html__( 'Add new Feature', 'blogshammir' ),
-					'max_item'     => 3, // 3 Maximum item can add,
-					'limited_msg'  => wp_kses_post( __( 'Upgrade to <a target="_blank" href="https://github.com/shammir-ahmedblogshammir/">BlogShammir Pro</a> to be able to add more items and unlock other premium features!', 'blogshammir' ) ),
-					'fields'       => array(
+					'max_item' => 999, // 3 Maximum item can add,
+										'fields'       => array(
 						'link'  => array(
 							'title' => esc_html__( 'Select feature link', 'blogshammir' ),
 							'type'  => 'link',
@@ -147,5 +146,6 @@ if ( ! class_exists( 'Blogshammir_Customizer_Featured_Links' ) ) :
 	}
 endif;
 new Blogshammir_Customizer_Featured_Links();
+
 
 

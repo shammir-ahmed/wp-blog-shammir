@@ -242,9 +242,7 @@ if ( ! class_exists( 'Blogshammir_Customizer' ) ) :
 					'sticky-header',
 					'sidebar',
 					'breadcrumbs',
-					'pro-features',
-					'buttons',
-				)
+					)
 			);
 
 			foreach ( $sections as $section ) {
@@ -422,15 +420,11 @@ if ( ! class_exists( 'Blogshammir_Customizer' ) ) :
 					'typography'          => 'Blogshammir_Customizer_Control_Typography',
 					'button'              => 'Blogshammir_Customizer_Control_Button',
 					'sortable'            => 'Blogshammir_Customizer_Control_Sortable',
-					'info'                => 'Blogshammir_Customizer_Control_Info',
-					'pro'                 => 'Blogshammir_Customizer_Control_Pro',
-					'design-options'      => 'Blogshammir_Customizer_Control_Design_Options',
+					'info'                => 'Blogshammir_Customizer_Control_Info',					'design-options'      => 'Blogshammir_Customizer_Control_Design_Options',
 					'alignment'           => 'Blogshammir_Customizer_Control_Alignment',
 					'checkbox-group'      => 'Blogshammir_Customizer_Control_Checkbox_Group',
 					'repeater'            => 'Blogshammir_Customizer_Control_Repeater',
-					'editor'              => 'Blogshammir_Customizer_Control_Editor',
-					'section-pro'         => 'Blogshammir_Customizer_Control_Section_Pro',
-					'generic-notice'      => 'Blogshammir_Customizer_Control_Generic_Notice',
+					'editor'              => 'Blogshammir_Customizer_Control_Editor',					'generic-notice'      => 'Blogshammir_Customizer_Control_Generic_Notice',
 					'gallery'             => 'Blogshammir_Customizer_Control_Gallery',
 					'datetime'            => 'Blogshammir_Customizer_Control_Datetime',
 					'section-group-title' => 'Blogshammir_Customizer_Control_Section_Group_Title',
@@ -680,5 +674,7 @@ if ( ! class_exists( 'Blogshammir_Customizer' ) ) :
 		}
 	}
 endif;
+
+
 
 
