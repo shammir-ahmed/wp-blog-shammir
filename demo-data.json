@@ -1,0 +1,43 @@
+{
+  "theme": "BlogShammir",
+  "author": "Md Shammir Ahmed",
+  "author_url": "https://github.com/shammir-ahmed",
+  "settings": {
+    "site_title": "BlogShammir Demo",
+    "site_description": "A stunning, customizable theme by Md Shammir Ahmed",
+    "blogshammir_layout": "right-sidebar",
+    "blogshammir_primary_color": "#ff5a5f"
+  },
+  "menus": [
+    {
+      "name": "Primary Menu",
+      "location": "primary",
+      "items": [
+        {"title": "Home", "url": "/"},
+        {"title": "About", "url": "/about"},
+        {"title": "Contact", "url": "/contact"}
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "title": "Welcome to BlogShammir",
+      "content": "This is a demo post for the BlogShammir theme developed by Md Shammir Ahmed. It showcases the beautiful typography and layout of the theme.",
+      "category": "Announcements",
+      "status": "publish"
+    },
+    {
+      "title": "Configuring Ads Control",
+      "content": "BlogShammir comes with a built-in Ads control mechanism via Customizer Advertisement Widgets. You can easily insert ads before header, after header, before/after post content, etc.",
+      "category": "Tutorials",
+      "status": "publish"
+    }
+  ],
+  "pages": [
+    {
+      "title": "About",
+      "content": "BlogShammir is maintained by Md Shammir Ahmed.",
+      "status": "publish"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+﻿<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_blogshammir">
+            <key name="blogshammir_hero_slider_read_more" />
+            <key name="blogshammir_ticker_title" />
+            <key name="blogshammir_featured_links_title" />
+            <key name="blogshammir_featured_links">
+                <key name="*" />
+            </key>
+            <key name="blogshammir_pyml_title" />
+            <key name="blogshammir_main_nav_mobile_label" />
+            <key name="blogshammir_blog_heading" />
+            <key name="blogshammir_excerpt_more" />
+            <key name="blogshammir_blog_read_more" />
+            <key name="blogshammir_related_posts_heading" />
+            <key name="blogshammir_header_widgets">
+                <key name="*" />
+            </key>
+            <key name="blogshammir_copyright_widgets" >
+                <key name="*" />
+            </key>
+            <key name='custom_logo' />
+            <key name='blogshammir_logo_default_retina' />
+            <key name='blogname' />
+        </key>
+    </admin-texts>   
+</wpml-config>
