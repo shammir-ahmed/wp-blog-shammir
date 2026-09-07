@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir compatibility class for Elementor.
  *

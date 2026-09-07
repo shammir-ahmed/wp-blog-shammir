@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * BlogShammir Theme Setup Class.
  *

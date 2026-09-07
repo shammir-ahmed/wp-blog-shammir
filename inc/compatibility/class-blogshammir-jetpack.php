@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Jetpack compatibility class.
  *

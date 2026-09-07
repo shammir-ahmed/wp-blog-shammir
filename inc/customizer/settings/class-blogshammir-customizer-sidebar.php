@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir Sidebar section in Customizer.
  *

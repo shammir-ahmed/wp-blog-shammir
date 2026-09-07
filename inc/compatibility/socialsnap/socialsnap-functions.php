@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir Social Snap compatibility functions.
  *

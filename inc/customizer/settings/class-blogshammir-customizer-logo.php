@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir Logo section in Customizer.
  *

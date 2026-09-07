@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir PYML section in Customizer.
  *

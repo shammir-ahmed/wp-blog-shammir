@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir Customizer custom textarea control class.
  *

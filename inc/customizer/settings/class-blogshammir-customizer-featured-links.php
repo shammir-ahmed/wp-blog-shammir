@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir Featured Links Section Settings section in Customizer.
  *

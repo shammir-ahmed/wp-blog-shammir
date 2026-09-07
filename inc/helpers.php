@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 /**
  * Frontend helper functions used throught the theme.

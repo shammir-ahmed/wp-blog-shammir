@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir Copyright Bar section in Customizer.
  *

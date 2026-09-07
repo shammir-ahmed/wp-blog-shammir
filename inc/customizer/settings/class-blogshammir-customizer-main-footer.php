@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir Main Footer section in Customizer.
  *

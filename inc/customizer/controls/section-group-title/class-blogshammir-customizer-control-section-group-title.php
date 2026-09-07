@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 class Blogshammir_Customizer_Control_Section_Group_Title extends WP_Customize_Section {
 

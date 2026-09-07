@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir Breadcrumbs Settings section in Customizer.
  *

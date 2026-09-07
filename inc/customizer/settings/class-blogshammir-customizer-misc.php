@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir Misc section in Customizer.
  *

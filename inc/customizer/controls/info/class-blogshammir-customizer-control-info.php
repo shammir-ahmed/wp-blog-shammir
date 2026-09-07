@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir Customizer info control class.
  *

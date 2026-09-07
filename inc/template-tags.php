@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 /**
  * Template tags used throught the theme.

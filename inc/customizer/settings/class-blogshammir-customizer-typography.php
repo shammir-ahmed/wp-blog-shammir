@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir Base Typography section in Customizer.
  *

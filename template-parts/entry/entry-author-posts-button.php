@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Template part for displaying more posts button in author box.
  *

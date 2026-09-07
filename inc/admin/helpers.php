@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Contains various functions that may be potentially used throughout
  * the theme.

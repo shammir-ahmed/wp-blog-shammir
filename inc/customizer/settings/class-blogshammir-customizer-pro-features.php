@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * BlogShammir Pro Features section in Customizer.
  *

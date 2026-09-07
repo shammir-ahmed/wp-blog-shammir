@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Template part for displaying content of Blogshammir Canvas [Fullwidth] page template.
  *

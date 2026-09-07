@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir WooCommerce section in Customizer.
  *

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 if ( ! class_exists( 'Blogshammir_Customizer_Control_Pro' ) ) :
 	class Blogshammir_Customizer_Control_Pro extends Blogshammir_Customizer_Control {
 

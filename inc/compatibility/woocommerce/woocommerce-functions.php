@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir WooCommerce compatibility functions.
  *

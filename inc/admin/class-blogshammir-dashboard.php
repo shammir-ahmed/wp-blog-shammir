@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir About page class.
  *

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir Top Bar Settings section in Customizer.
  *

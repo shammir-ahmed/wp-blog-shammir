@@ -1,4 +1,4 @@
-﻿<?php //phpcs:ignore
+<?php //phpcs:ignore
 /**
  * Theme functions and definitions.
  *

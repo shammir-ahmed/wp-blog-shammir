@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir Page Title Settings section in Customizer.
  *

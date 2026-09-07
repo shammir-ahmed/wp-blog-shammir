@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir Category Colors section in Customizer.
  *

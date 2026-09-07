@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir Customizer custom background control class.
  *

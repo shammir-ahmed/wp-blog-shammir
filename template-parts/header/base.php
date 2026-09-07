@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * The base template for displaying theme header area.
  *

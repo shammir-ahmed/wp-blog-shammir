@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir Hero Section Settings section in Customizer.
  *

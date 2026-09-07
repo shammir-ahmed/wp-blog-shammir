@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Template part for displaying Previous/Next Post section.
  *

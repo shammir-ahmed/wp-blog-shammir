@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Helper class for font settings.
  *

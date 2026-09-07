@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir Sticky Header Settings section in Customizer.
  *

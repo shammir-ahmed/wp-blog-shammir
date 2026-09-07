@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir Main Header Settings section in Customizer.
  *

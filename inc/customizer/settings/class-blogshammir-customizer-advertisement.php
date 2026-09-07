@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir Advertisement Section Settings in Customizer.
  *

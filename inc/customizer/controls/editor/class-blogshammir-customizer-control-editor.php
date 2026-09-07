@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Customizer editor control class.
  *

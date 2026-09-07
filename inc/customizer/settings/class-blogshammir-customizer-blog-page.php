@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir Blog Â» Blog Page / Archive section in Customizer.
  *

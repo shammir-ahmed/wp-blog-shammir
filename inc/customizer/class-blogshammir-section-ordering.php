@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 /**
  * Customizer sections order main file

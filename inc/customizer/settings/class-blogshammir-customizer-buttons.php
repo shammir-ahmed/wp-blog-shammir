@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Buttons section in Customizer Â» General Settings.
  *

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Template part for displaying about author box.
  *

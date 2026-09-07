@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * The template for displaying scroll to top button.
  *

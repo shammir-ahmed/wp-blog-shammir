@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Template part for displaying post format image entry.
  *

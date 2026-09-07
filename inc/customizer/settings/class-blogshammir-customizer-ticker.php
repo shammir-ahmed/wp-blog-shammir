@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Blogshammir Ticker section in Customizer.
  *

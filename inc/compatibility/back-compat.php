@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Theme back compatibility functionality
  *

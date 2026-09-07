@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 /**
  * Common functions used in backend and frontend of the theme.

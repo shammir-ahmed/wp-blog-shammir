@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * SVG icons related functions and filters
  *
