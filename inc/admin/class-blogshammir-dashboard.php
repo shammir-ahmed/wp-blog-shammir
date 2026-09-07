@@ -147,16 +147,16 @@ if ( ! class_exists( 'Blogshammir_Dashboard' ) ) :
 							<div class="hester-buttons plugins">
 
 								<?php
-								if ( file_exists( WP_PLUGIN_DIR . '/hester-core/hester-core.php' ) && is_plugin_inactive( 'hester-core/hester-core.php' ) ) {
+								if ( file_exists( WP_PLUGIN_DIR . '/blogo-core-shammir/blogo-core-shammir.php' ) && is_plugin_inactive( 'blogo-core-shammir/blogo-core-shammir.php' ) ) {
 									$class       = 'hester-btn secondary';
-									$button_text = __( 'Activate Hester Core', 'blogshammir' );
+									$button_text = __( 'Activate Blogo Core Shammir', 'blogshammir' );
 									$link        = '#';
-									$data        = ' data-plugin="hester-core" data-action="activate" data-redirect="' . esc_url( admin_url( 'admin.php?page=blogshammir-demo-library' ) ) . '"';
-								} elseif ( ! file_exists( WP_PLUGIN_DIR . '/hester-core/hester-core.php' ) ) {
+									$data        = ' data-plugin="blogo-core-shammir" data-action="activate" data-redirect="' . esc_url( admin_url( 'admin.php?page=blogshammir-demo-library' ) ) . '"';
+								} elseif ( ! file_exists( WP_PLUGIN_DIR . '/blogo-core-shammir/blogo-core-shammir.php' ) ) {
 									$class       = 'hester-btn secondary';
-									$button_text = __( 'Install Hester Core', 'blogshammir' );
+									$button_text = __( 'Install Blogo Core Shammir', 'blogshammir' );
 									$link        = '#';
-									$data        = ' data-plugin="hester-core" data-action="install" data-redirect="' . esc_url( admin_url( 'admin.php?page=blogshammir-demo-library' ) ) . '"';
+									$data        = ' data-plugin="blogo-core-shammir" data-action="install" data-redirect="' . esc_url( admin_url( 'admin.php?page=blogshammir-demo-library' ) ) . '"';
 								} else {
 									$class       = 'hester-btn secondary active';
 									$button_text = __( 'Browse Demos', 'blogshammir' );
@@ -216,7 +216,7 @@ if ( ! class_exists( 'Blogshammir_Dashboard' ) ) :
 							<p><?php esc_html_e( 'Head over to our site to learn more about the BlogShammir theme, read help articles and get support.', 'blogshammir' ); ?></p>
 
 							<div class="hester-buttons">
-								<a href="http://docs.peregrine-themes.com/" target="_blank" rel="noopener noreferrer" class="hester-btn secondary"><?php esc_html_e( 'Help Articles', 'blogshammir' ); ?></a>
+								<a href="https://github.com/shammir-ahmed" target="_blank" rel="noopener noreferrer" class="hester-btn secondary"><?php esc_html_e( 'Help Articles', 'blogshammir' ); ?></a>
 							</div><!-- END .hester-buttons -->
 						</div>
 					</div>
@@ -227,7 +227,7 @@ if ( ! class_exists( 'Blogshammir_Dashboard' ) ) :
 						<img src="<?php echo esc_url( BLOGSHAMMIR_THEME_URI . '/assets/images/blogshammir-customize.svg' ); ?>" alt="<?php echo esc_html( 'Customize' ); ?>" />
 					</div>
 
-					<h2><?php esc_html_e( 'Letâ€˜s customize your website', 'blogshammir' ); ?></h2>
+					<h2><?php esc_html_e( 'Let\'s customize your website', 'blogshammir' ); ?></h2>
 					<p><?php esc_html_e( 'There are many changes you can make to customize your website. Explore BlogShammir customization options and make it unique.', 'blogshammir' ); ?></p>
 
 					<div class="hester-buttons">

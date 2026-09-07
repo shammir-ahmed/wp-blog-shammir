@@ -206,7 +206,7 @@ if ( ! class_exists( 'Blogshammir_Dynamic_Styles' ) ) :
 							[data-darkmode=dark] #colophon .search-form .search-submit,
 							[data-darkmode=dark] #main .search-form .search-submit,
 							[data-darkmode=dark] .content-area a:not(.blogshammir-btn,.showcoupon,.wp-block-button__link):hover,
-							[data-darkmode=dark] #secondary .hester-core-custom-list-widget .blogshammir-entry a:not(.blogshammir-btn):hover,
+							[data-darkmode=dark] #secondary .blogo-core-shammir-custom-list-widget .blogshammir-entry a:not(.blogshammir-btn):hover,
 							[data-darkmode=dark] .blogshammir-breadcrumbs a:hover,
 							[data-darkmode=dark] #add_payment_method table.cart td.actions .coupon .input-text:focus,
 							[data-darkmode=dark] .woocommerce-cart table.cart td.actions .coupon .input-text:focus,
@@ -1191,7 +1191,7 @@ if ( ! class_exists( 'Blogshammir_Dynamic_Styles' ) ) :
 			// Content link hover color.
 			$css .= '
 				.content-area a:not(.blogshammir-btn, .wp-block-button__link, [class^="cat-"], [rel="tag"]):hover,
-				#secondary .hester-core-custom-list-widget .blogshammir-entry a:not(.blogshammir-btn):hover,
+				#secondary .blogo-core-shammir-custom-list-widget .blogshammir-entry a:not(.blogshammir-btn):hover,
 				.blogshammir-breadcrumbs a:hover {
 					color: ' . blogshammir_sanitize_color( blogshammir_option( 'content_link_hover_color' ) ) . ';
 				}

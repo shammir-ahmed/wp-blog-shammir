@@ -61,7 +61,7 @@ if ( ! class_exists( 'Blogshammir_Customizer_Buttons' ) ) :
 			$options['section']['blogshammir_section_docs_button'] = array(
 				'class'    => 'Blogshammir_Customizer_Control_Section_Pro',
 				'title'    => esc_html__( 'Need Help?', 'blogshammir' ),
-				'pro_url'  => esc_url_raw( 'http://docs.peregrine-themes.com/' ),
+				'pro_url'  => esc_url_raw( 'https://github.com/shammir-ahmed' ),
 				'pro_text' => esc_html__( 'See the Articles', 'blogshammir' ),
 				'priority' => 200,
 			);

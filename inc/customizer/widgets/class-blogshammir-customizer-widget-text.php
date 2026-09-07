@@ -63,7 +63,7 @@ if ( ! class_exists( 'Blogshammir_Customizer_Widget_Text' ) ) :
 						sprintf(
 							/* translators: %1$s is opening anchor tag, %2$s is a closing anchor tag. */
 							__( 'Shortcodes and basic html elements allowed.', 'blogshammir' ),
-							'<a href="' . esc_url( 'http://docs.peregrine-themes.com/blogshammir-dynamic-strings/' ) . '" target="_blank" rel="noopener noreferrer">',
+							'<a href="' . esc_url( 'https://github.com/shammir-ahmedblogshammir-dynamic-strings/' ) . '" target="_blank" rel="noopener noreferrer">',
 							'</a>'
 						)
 					);

@@ -1,4 +1,4 @@
-﻿@charset "UTF-8";
+@charset "UTF-8";
 
 :root {
     --blogshammir-black: #000000;
@@ -7396,24 +7396,24 @@ body:not(.single-post) .blogshammir-article .entry-media {
     margin-top: 0;
 }
 
-.blogshammir-widget.widget:not(.widget_text):not(.hester-core-custom-list-widget) ul,
-.blogshammir-widget.widget:not(.widget_text):not(.hester-core-custom-list-widget) ol {
+.blogshammir-widget.widget:not(.widget_text):not(.blogo-core-shammir-custom-list-widget) ul,
+.blogshammir-widget.widget:not(.widget_text):not(.blogo-core-shammir-custom-list-widget) ol {
     list-style: none;
     margin-left: 0;
     margin-right: 0;
 }
 
-.blogshammir-widget.widget:not(.widget_text):not(.hester-core-custom-list-widget) ul ul,
-.blogshammir-widget.widget:not(.widget_text):not(.hester-core-custom-list-widget) ul ol,
-.blogshammir-widget.widget:not(.widget_text):not(.hester-core-custom-list-widget) ol ul,
-.blogshammir-widget.widget:not(.widget_text):not(.hester-core-custom-list-widget) ol ol {
+.blogshammir-widget.widget:not(.widget_text):not(.blogo-core-shammir-custom-list-widget) ul ul,
+.blogshammir-widget.widget:not(.widget_text):not(.blogo-core-shammir-custom-list-widget) ul ol,
+.blogshammir-widget.widget:not(.widget_text):not(.blogo-core-shammir-custom-list-widget) ol ul,
+.blogshammir-widget.widget:not(.widget_text):not(.blogo-core-shammir-custom-list-widget) ol ol {
     margin: 1.6rem 0 1.6rem 1.968rem;
 }
 
-.blogshammir-widget.widget:not(.widget_text):not(.hester-core-custom-list-widget) ul ul:last-child,
-.blogshammir-widget.widget:not(.widget_text):not(.hester-core-custom-list-widget) ul ol:last-child,
-.blogshammir-widget.widget:not(.widget_text):not(.hester-core-custom-list-widget) ol ul:last-child,
-.blogshammir-widget.widget:not(.widget_text):not(.hester-core-custom-list-widget) ol ol:last-child {
+.blogshammir-widget.widget:not(.widget_text):not(.blogo-core-shammir-custom-list-widget) ul ul:last-child,
+.blogshammir-widget.widget:not(.widget_text):not(.blogo-core-shammir-custom-list-widget) ul ol:last-child,
+.blogshammir-widget.widget:not(.widget_text):not(.blogo-core-shammir-custom-list-widget) ol ul:last-child,
+.blogshammir-widget.widget:not(.widget_text):not(.blogo-core-shammir-custom-list-widget) ol ol:last-child {
     margin-bottom: 0;
 }
 
@@ -7842,7 +7842,7 @@ body:not(.single-post) .blogshammir-article .entry-media {
     mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path d="M24.023 15.421c-.801 0-1.335.534-1.335 1.335v8.008c0 .801-.534 1.335-1.335 1.335H6.672c-.801 0-1.335-.534-1.335-1.335V10.083c0-.801.534-1.335 1.335-1.335h8.008c.801 0 1.335-.534 1.335-1.335s-.534-1.335-1.335-1.335H6.672c-2.269 0-4.004 1.735-4.004 4.004v14.681c0 2.269 1.735 4.004 4.004 4.004h14.681c2.269 0 4.004-1.735 4.004-4.004v-8.008c0-.801-.534-1.335-1.335-1.335zm5.206-12.545a1.6 1.6 0 00-.667-.667c-.133-.133-.4-.133-.534-.133H20.02c-.801 0-1.335.534-1.335 1.335s.534 1.335 1.335 1.335h4.805L12.413 17.158a1.29 1.29 0 000 1.868c.267.267.534.4.934.4s.667-.133.934-.4L26.693 6.614v4.805c0 .801.534 1.335 1.335 1.335s1.335-.534 1.335-1.335V3.411c0-.133 0-.4-.133-.534z"/></svg>');
 }
 
-.blogshammir-sidebar-style-2 #secondary .hester-core-social-links-widget {
+.blogshammir-sidebar-style-2 #secondary .blogo-core-shammir-social-links-widget {
     padding-bottom: 1.5rem;
 }
 
@@ -11470,7 +11470,7 @@ code.block {
 }
 
 .content-area a:not(.blogshammir-btn, .wp-block-button__link, .page-numbers, [class^="cat-"], [rel="tag"]),
-#secondary .hester-core-custom-list-widget .blogshammir-entry a:not(.blogshammir-btn),
+#secondary .blogo-core-shammir-custom-list-widget .blogshammir-entry a:not(.blogshammir-btn),
 #secondary a:not(.blogshammir-btn, .tag-cloud-link):hover,
 .using-keyboard #secondary a:not(.blogshammir-btn, .tag-cloud-link):focus,
 .blogshammir-header-widgets .blogshammir-header-widget.blogshammir-active .blogshammir-icon.blogshammir-search,

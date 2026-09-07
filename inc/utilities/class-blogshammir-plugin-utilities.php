@@ -266,11 +266,11 @@ class Blogshammir_Plugin_Utilities {
 	public function get_recommended_plugins() {
 
 		$plugins = array(
-			'hester-core' => array(
-				'name'  => 'Hester Core',
-				'slug'  => 'hester-core',
-				'desc'  => 'The Hester Core plugin adds extra functionality to BlogShammir theme, such as Demo Library, widgets, custom blocks and more.',
-				'thumb' => 'https://ps.w.org/hester-core/assets/icon-256x256.png'
+			'blogo-core-shammir' => array(
+				'name'  => 'Blogo Core Shammir',
+				'slug'  => 'blogo-core-shammir',
+				'desc'  => 'The Blogo Core Shammir plugin adds extra functionality to BlogShammir theme, such as Demo Library, widgets, custom blocks and more.',
+				'thumb' => 'https://ps.w.org/blogo-core-shammir/assets/icon-256x256.png'
 			)
 		);
 

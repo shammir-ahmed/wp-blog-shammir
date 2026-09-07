@@ -181,7 +181,7 @@ if ( ! class_exists( 'Blogshammir_Admin' ) ) :
 			 * Only do this if we are on one of our plugin pages.
 			 */
 			if ( blogshammir_is_admin_page( $base ) ) {
-				return apply_filters( 'blogshammir_footer_version', esc_html__( 'BlogShammir Theme', 'blogshammir' ) . ' ' . BLOGSHAMMIR_THEME_VERSION . '<br/><a href="' . esc_url( 'https://twitter.com/peregrine-themes' ) . '" target="_blank" rel="noopener noreferrer"><span class="dashicons dashicons-twitter"></span></a><a href="' . esc_url( 'https://facebook.com/peregrine-themes' ) . '" target="_blank" rel="noopener noreferrer"><span class="dashicons dashicons-facebook"></span></a>' );
+				return apply_filters( 'blogshammir_footer_version', esc_html__( 'BlogShammir Theme', 'blogshammir' ) . ' ' . BLOGSHAMMIR_THEME_VERSION . '<br/><a href="' . esc_url( 'https://twitter.com/shammir-ahmed' ) . '" target="_blank" rel="noopener noreferrer"><span class="dashicons dashicons-twitter"></span></a><a href="' . esc_url( 'https://facebook.com/shammir-ahmed' ) . '" target="_blank" rel="noopener noreferrer"><span class="dashicons dashicons-facebook"></span></a>' );
 			} else {
 				return $text;
 			}
@@ -219,13 +219,14 @@ if ( ! class_exists( 'Blogshammir_Admin' ) ) :
 			<div id="hester-header">
 				<div class="hester-container">
 
-					<a href="<?php echo esc_url( admin_url( 'admin.php?page=blogshammir-dashboard' ) ); ?>" class="hester-logo">
-						<img src="<?php echo esc_url( BLOGSHAMMIR_THEME_URI . '/assets/images/blogshammir-logo.svg' ); ?>" alt="<?php echo esc_html( 'Blogshammir' ); ?>" />
+					<a href="<?php echo esc_url( admin_url( 'admin.php?page=blogshammir-dashboard' ) ); ?>" class="hester-logo" style="display:flex; align-items:center; gap: 10px; text-decoration:none;">
+						<img src="<?php echo esc_url( BLOGSHAMMIR_THEME_URI . '/assets/images/blogshammir-logo-v2.svg' ); ?>" alt="<?php echo esc_attr( 'BlogShammir' ); ?>" />
+						<strong style="color: #2c2e3a; font-size: 24px; font-weight: 800;">BLOGSHAMMIR</strong>
 					</a>
 
 					<span class="hester-header-action">
 						<a href="<?php echo esc_url( admin_url( 'customize.php' ) ); ?>"><?php esc_html_e( 'Customize', 'blogshammir' ); ?></a>
-						<a href="<?php echo esc_url( 'http://docs.peregrine-themes.com/' ); ?>" target="_blank" rel="noopener noreferrer"><?php esc_html_e( 'Help Articles', 'blogshammir' ); ?></a>
+						<a href="<?php echo esc_url( 'https://github.com/shammir-ahmed' ); ?>" target="_blank" rel="noopener noreferrer"><?php esc_html_e( 'Help Articles', 'blogshammir' ); ?></a>
 					</span>
 
 				</div>
@@ -248,8 +249,8 @@ if ( ! class_exists( 'Blogshammir_Admin' ) ) :
 			?>
 			<div id="hester-footer">
 			<ul>
-				<li><a href="<?php echo esc_url( 'http://docs.peregrine-themes.com/' ); ?>" target="_blank" rel="noopener noreferrer"><span><?php esc_html_e( 'Help Articles', 'blogshammir' ); ?></span></span></a></li>
-				<li><a href="<?php echo esc_url( 'https://www.facebook.com/groups/peregrine-themes/' ); ?>" target="_blank" rel="noopener noreferrer"><span><?php esc_html_e( 'Join Facebook Group', 'blogshammir' ); ?></span></span></a></li>
+				<li><a href="<?php echo esc_url( 'https://github.com/shammir-ahmed' ); ?>" target="_blank" rel="noopener noreferrer"><span><?php esc_html_e( 'Help Articles', 'blogshammir' ); ?></span></span></a></li>
+				<li><a href="<?php echo esc_url( 'https://www.facebook.com/groups/shammir-ahmed/' ); ?>" target="_blank" rel="noopener noreferrer"><span><?php esc_html_e( 'Join Facebook Group', 'blogshammir' ); ?></span></span></a></li>
 				<li><a href="<?php echo esc_url( 'https://wordpress.org/support/theme/blogshammir/reviews/#new-post' ); ?>" target="_blank" rel="noopener noreferrer"><span class="dashicons dashicons-heart" aria-hidden="true"></span><span><?php esc_html_e( 'Leave a Review', 'blogshammir' ); ?></span></a></li>
 			</ul>
 			</div><!-- END #hester-footer -->
